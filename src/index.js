@@ -1,2 +1,2 @@
 console.log("Primeira MSG");
-conseole.log("Teste");
+console.log("Teste");
